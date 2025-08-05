@@ -25,8 +25,8 @@
 ## Author
 
 **Name**: Rosita Dev  
-**Email**: rosita.dev@example.com  
-**Website**: 
+**Email**: 
+**Website**: [peryourhealth](https://www.peryourhealth.io)
 
 Rosita is a full-stack developer with over 7 years of experience in modern web technologies. She specializes in JavaScript frameworks and has contributed to multiple open-source healthcare and finance platforms. Rosita is passionate about building meaningful tools and helping new developers through mentorship and documentation.
 
